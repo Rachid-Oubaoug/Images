@@ -1,3 +1,3 @@
-You don't have anything to do here !
+You have nothing to do here !
 
-This repository is only to store images to use in some of my writings !
+This repository is only to store images to use in my writings !
